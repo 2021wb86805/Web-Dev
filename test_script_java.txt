@@ -1,1 +1,5 @@
-Java test script
+<<<<<<< HEAD
+JavaScript test script
+=======
+JavaScript test script
+>>>>>>> 36a2b37 (Added java test script in Javascript branch)
